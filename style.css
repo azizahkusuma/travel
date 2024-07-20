@@ -19,6 +19,9 @@ body {
 .layar-penuh {
   width: 100%;
 }
+.mp4 {
+  position:absolute;
+}
 nav {
   z-index: 100;
   color: #fff;
